@@ -1,0 +1,644 @@
+{
+    "item1": [
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9999771120783387,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9998245393208071,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9998245393208071,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9999771120783387,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9998245393208071,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9998245393208071,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9999771120783387,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9998245393208071,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9998245393208071,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        }
+    ],
+    "item2": [
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999694828875315
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9998931941807102
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            }
+        }
+    ],
+    "item3": [
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 1.000007629423635
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9998245393208071
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999160801816213
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999389667063573
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999160801816213
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999160801816213
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999923706345725
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999847413273523
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9999847413273523
+            }
+        }
+    ],
+    "item4": [
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.8599715101065465,
+                "6": 0.116384487895687,
+                "7": null,
+                "8": null,
+                "9": 0.02022459141809413
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.11913265007341314,
+                "6": 0.8802778346067244,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.969943382131344,
+                "6": 0.029289752208160585,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.8599715101065465,
+                "6": 0.116384487895687,
+                "7": null,
+                "8": null,
+                "9": 0.02022459141809413
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.11913265007341314,
+                "6": 0.8802778346067244,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9691518965993402,
+                "6": 0.02926585141607745,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.9232343915767836,
+                "6": 0.07578369376211633,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.11913265007341314,
+                "6": 0.8802778346067244,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": 0.8721556140190225,
+                "6": 0.11803342704966627,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        }
+    ],
+    "item5": [
+        {
+            "sample-0": {
+                "1": 0.9997635167361075,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": 0.9999847413273523,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": 0.9999313378065751,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        },
+        {
+            "sample-0": {
+                "1": 1.000007629423635,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": 0.9999618537549303,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": 0.9999618537549303,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        },
+        {
+            "sample-0": {
+                "1": 1.0000267032373844,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-1": {
+                "1": 0.9999618537549303,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            },
+            "sample-2": {
+                "1": 0.9999618537549303,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null
+            }
+        }
+    ],
+    "item6": [
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.998193467244302
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9897531774774282
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.995235385980849
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9991992343582853
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.99707459984654
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.99707459984654
+            }
+        },
+        {
+            "sample-0": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9949013481410394
+            },
+            "sample-1": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.99707459984654
+            },
+            "sample-2": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": 0.9991763647644852
+            }
+        }
+    ]
+}

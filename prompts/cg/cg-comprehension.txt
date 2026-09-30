@@ -1,0 +1,4 @@
+Answer the following question carefully to test your understanding of the task.
+{question}
+
+Return numerical characters only.

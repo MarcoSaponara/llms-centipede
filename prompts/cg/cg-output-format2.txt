@@ -1,0 +1,2 @@
+You are Player {role}.
+Return exactly one integer from 0 to 3, representing the total number of times you chooses Y throughout the task.

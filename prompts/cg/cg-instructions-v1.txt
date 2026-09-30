@@ -1,0 +1,15 @@
+Instructions:
+You must make decisions in a one-shot, complete-information, two-player, six-move sequential task.
+The task involves two Players: Player {pl1} who plays at the decision nodes 1,3,5; and Player {pl2} who plays at the decision nodes 2,4,6.
+At each decision node, the available actions are {take} or {pas}.
+If {take} is chosen, the interaction ends immediately and both players get the payoffs associated to that node.
+If {pas} is chosen, play moves to the next decision node.
+The obtained payoffs determine the earnings of both you and the other player.
+
+Payoffs are displayed below as (payoff of Player {pl1}, payoff of Player {pl2}):
+Node 1, Player {pl1}: {take} -> (30, 10); {pas} -> Node 2
+Node 2, Player {pl2}: {take} -> (20, 60); {pas} -> Node 3
+Node 3, Player {pl1}: {take} -> (90, 30); {pas} -> Node 4
+Node 4, Player {pl2}: {take} -> (40, 120); {pas} -> Node 5
+Node 5, Player {pl1}: {take} -> (150, 50); {pas} -> Node 6
+Node 6, Player {pl2}: {take} -> (60, 180); {pas} -> ({value}, {value})

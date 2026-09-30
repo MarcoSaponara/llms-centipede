@@ -1,0 +1,79 @@
+{
+    "gpt_5.1": {"model": "openai/gpt-5.1",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "default",
+            "reasoning_effort": "none",
+            "n": 3
+        }
+    },
+    "gpt_5.4": {"model": "openai/gpt-5.4",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "default",
+            "reasoning_effort": "none",
+            "n": 3
+        }
+    },
+    "gpt_5.4_mini": {"model": "openai/gpt-5.4-mini",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "default",
+            "reasoning_effort": "none",
+            "n": 3
+        }
+    },
+    "gpt_5.4_nano": {"model": "openai/gpt-5.4-nano",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "default",
+            "reasoning_effort": "none",
+            "n": 3
+        }
+    },
+    "Llama_3.3_70B_Instruct": {"model": "huggingface/together/meta-llama/Llama-3.3-70B-Instruct",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "flex",
+            "chat_template_kwargs": {"enable_thinking": false},
+            "n": 3,
+            "temperature": 1
+        }
+    },
+    "Qwen3.5_9B": {"model": "huggingface/Qwen/Qwen3.5-9B",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "flex",
+            "chat_template_kwargs": {"enable_thinking": false},
+            "n": 3
+        }
+    },
+    "Qwen3.5_27B": {"model": "huggingface/Qwen/Qwen3.5-27B:novita",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "flex",
+            "max_tokens": 8,
+            "n": 1,
+            "chat_template_kwargs": {"enable_thinking": false
+            }
+        }
+    },
+    "Gemma_4_31B": {"model": "huggingface/google/gemma-4-31B-it",
+        "kwargs": {
+            "logprobs": true,
+            "top_logprobs": 5,
+            "service_tier": "flex",
+            "chat_template_kwargs": {"enable_thinking": false
+            },
+            "max_tokens": 8,
+            "n": 3
+        }
+    }
+}
