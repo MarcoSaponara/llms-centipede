@@ -1,6 +1,7 @@
 # Conditioning LLMs on Social Value Orientation improves behavioural alignment in a sequential social dilemma
 
 Software for reproducing the results in "Conditioning LLMs on Social Value Orientation improves behavioural alignment in a sequential social dilemma".
+
 The figures can be reproduced using the .ipynb notebooks in notebooks.
 
 The data can be created running src/main.py.
@@ -15,18 +16,37 @@ src/main.py takes as parameters:
 - comprehension (to perform comprehension test in cg)
 
 project/
+
 |- .env 
+
 |- requirements.txt
+
 |- README.md
+
 |- .gitignore
+
 |- src/
+
 |---- main.py
+
 |---- utilsLiteLLM.py
+
 |---- utilsOutput.py
+
 |- prompts/
-|---- cg-fair/
-|---- cg-zero/
+
+|---- cg/
+
 |---- svo/
+
+|---- system/
+
 |- output/
+
 |- data/
+
 |---- models.json
+
+|---- svo_values.csv
+
+|---- human_svo_profiles_beta.csv
